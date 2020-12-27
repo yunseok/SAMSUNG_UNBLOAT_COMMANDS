@@ -16,9 +16,6 @@ pm uninstall -k --user 0 com.android.printspooler
 pm uninstall -k --user 0 com.android.providers.partnerbookmarks
 pm uninstall -k --user 0 com.android.providers.userdictionary
 pm uninstall -k --user 0 com.android.sharedstoragebackup
-pm uninstall -k --user 0 com.android.stk
-pm uninstall -k --user 0 com.android.wallpaper.livepicker
-pm uninstall -k --user 0 com.android.wallpapercropper
 pm uninstall -k --user 0 com.audible.application
 pm uninstall -k --user 0 com.blurb.checkout
 pm uninstall -k --user 0 com.cequint.ecid
